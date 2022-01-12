@@ -1,3 +1,5 @@
+package digit;
+
 public class ByteAdder {
 	public boolean[] byteadder(boolean[] byteA, boolean[] byteB) {
 		Gate g = new Gate();

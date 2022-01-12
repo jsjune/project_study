@@ -1,3 +1,4 @@
+package digit;
 
 public class Adder {
 	public boolean[] halfadder(boolean bitA, boolean bitB) {

@@ -1,3 +1,4 @@
+package digit;
 
 public class Gate {
 
