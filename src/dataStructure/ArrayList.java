@@ -70,10 +70,13 @@ public class ArrayList {
 
 	public Object indexOf(Object o) {
 		for (int i = 0; i < size; i++) {
-			if (o.equals(elementData[i])) {
+			if (o.equals(elementData[i])) { // .equals : 대상의 내용 자체를 비교, == : 대상의 주소값을 비교
 				return i;
 			}
 		}
 		return -1;
 	}
+	
+	
+	
 }
