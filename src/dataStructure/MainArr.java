@@ -1,6 +1,6 @@
 package dataStructure;
 
-public class Main {
+public class MainArr {
 
 	public static void main(String[] args) {
 
