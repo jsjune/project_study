@@ -8,14 +8,11 @@ public class Main {
 	public static void main(String[] args)throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
-		String str1 = br.readLine();
+//		String str1 = br.readLine();
 		String str2 = br.readLine();
 		
-		for(int i=2 ;i<3&&i>=0;i--) {
-			char ch = str2.charAt(i);
+			char ch = str2.charAt(0);
 			int test = ch - 48;
-			System.out.println(Integer.valueOf(str1)*test);
-		}
-		System.out.println(Integer.valueOf(str1)*Integer.valueOf(str2));
+			System.out.println(test*24);
 	}
 }
