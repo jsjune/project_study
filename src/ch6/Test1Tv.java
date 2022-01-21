@@ -1,3 +1,4 @@
+package ch6;
 
 public class Test1Tv {
 	public static void main(String[] args) {

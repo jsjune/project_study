@@ -1,3 +1,5 @@
+package ch6;
+
 public class Test2Tv {
 	public static void main(String[] args) {
 		Tv[] tvArr = new Tv[3];

@@ -1,3 +1,4 @@
+package ch6;
 
 public class Card {
 	String kind;

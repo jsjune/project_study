@@ -1,3 +1,4 @@
+package ch6;
 
 public class Test3Time {
 	public static void main(String args[]) {

@@ -1,3 +1,5 @@
+package ch6;
+
 public class Tv {
 	String color;
 	boolean power;

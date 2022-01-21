@@ -1,3 +1,4 @@
+package ch6;
 
 public class Test5ReferenceParamEx2 {
 	public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package ch6;
 
 public class Test4Card {
 	public static void main(String[] args) {

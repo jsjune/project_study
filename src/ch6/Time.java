@@ -1,3 +1,4 @@
+package ch6;
 
 public class Time {
 	private int hour;

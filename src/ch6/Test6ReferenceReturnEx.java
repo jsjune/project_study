@@ -1,7 +1,8 @@
+package ch6;
 
 public class Test6ReferenceReturnEx {
 	public static void main(String[] args) {
-		
+
 		Data d = new Data();
 		d.x = 10;
 
