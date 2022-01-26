@@ -2,7 +2,7 @@ package algorithm;
 
 import java.util.Stack;
 
-public class ClawCrane {
+public class PogrammersClawCrane {
 	public static void main(String[] args) {
 		int answer =0;
 		
